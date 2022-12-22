@@ -1,0 +1,14 @@
+{
+  "name": "Notifier",
+  "version": "1.0.0",
+  "description": "A website that sends an email about new posts on a different website",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "latest",
+    "nodemailer": "latest",
+    "request": "latest"
+  }
+}
